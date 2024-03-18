@@ -45,8 +45,20 @@ To reproduce the results or make predictions on new data, follow these steps:
 
 
 ## Contributors
-- Chand Rayee ([GitHub](https://github.com/mrchandrayee))
-- chandrayee ([About Me]([https://github.com/mrchandrayee/Chand-Rayee/blob/1b85fc39223f955bf4b5e08df4747e78e243626e/chandrayee.md])
+Connect With Us 🌐
+
+Feel free to reach out to us through any of the following platforms:
+
+- Telegram: [@crupgrade](https://t.me/crupgrade)
+- LinkedIn: [Mr. Chandrayee](https://www.linkedin.com/in/mrchandrayee/)
+- GitHub: [mrchandrayee](https://github.com/mrchandrayee)
+- Kaggle: [mrchandrayee](https://www.kaggle.com/mrchandrayee)
+- Instagram: [@chandrayee](https://www.instagram.com/chandrayee/)
+
+### Chand Rayee
+- [GitHub](https://github.com/mrchandrayee)
+- [About Me](https://github.com/mrchandrayee/Chand-Rayee/blob/1b85fc39223f955bf4b5e08df4747e78e243626e/chandrayee.md)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
