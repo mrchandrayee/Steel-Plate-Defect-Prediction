@@ -39,17 +39,14 @@ To reproduce the results or make predictions on new data, follow these steps:
    git clone https://github.com/mrchandrayee/Steel-Plate-Defect-Prediction.git
    ```
 
-2. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 
 
 
 ## Contributors
-- Chand Rayee ([GitHub](https://github.com/mrchandrayee)) chandrayee.md
+- Chand Rayee ([GitHub](https://github.com/mrchandrayee))
+- chandrayee.md ([GitHub](https://github.com/mrchandrayee))
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
