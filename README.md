@@ -6,8 +6,6 @@ Steel Plate Defect Prediction project on GitHub, authored by Chand Rayee:
 
 # Steel Plate Defect Prediction
 
-![Steel Plate](https://images.unsplash.com/photo-1611853409229-4cb14c34208c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
-
 ## Overview
 This project focuses on predicting defects in steel plates using machine learning techniques. The dataset used in this project is derived from the Steel Plates Faults dataset from the UCI Machine Learning Repository. The goal is to develop a predictive model capable of classifying the presence or absence of various types of defects in steel plates.
 
