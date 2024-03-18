@@ -46,7 +46,7 @@ To reproduce the results or make predictions on new data, follow these steps:
 
 ## Contributors
 - Chand Rayee ([GitHub](https://github.com/mrchandrayee))
-- chandrayee.md ([GitHub](https://github.com/mrchandrayee))
+- chandrayee ([About Me]([https://github.com/mrchandrayee](https://github.com/mrchandrayee/Chand-Rayee/blob/1b85fc39223f955bf4b5e08df4747e78e243626e/chandrayee.md)https://github.com/mrchandrayee/Chand-Rayee/blob/1b85fc39223f955bf4b5e08df4747e78e243626e/chandrayee.md))
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
